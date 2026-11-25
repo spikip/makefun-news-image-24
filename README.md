@@ -2,9 +2,9 @@
 
 **Sanofi buys Insmed for $41bn · Ukraine hits the Kerch Bridge again · Dow tops 50,000 — 35 stories, 8 regions, 14 fields, all from Tuesday 24 November 2026**
 
-[![Competition](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_campaign=news-image-20261124)
-[![Rank](https://make.fun/badge/spikip/makefun-news-image-24/rank.svg)](https://make.fun/bounty/news-image-20261124?utm_campaign=news-image-20261124)
-[![Reward](https://make.fun/badge/spikip/makefun-news-image-24/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_campaign=news-image-20261124)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/spikip/makefun-news-image-24/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/spikip/makefun-news-image-24/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 Entry for the make.fun bounty **[Sum up 24 November's world news in one image](https://make.fun/bounty/news-image-20261124?utm_campaign=news-image-20261124)** (`news-image-20261124`).
 
